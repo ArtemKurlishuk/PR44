@@ -29,5 +29,5 @@ namespace TaskManager_Kurlishuk
             DataContext = new VM_Pages(); //В качестве контекста указываем модель ViewModelpages
         }
     }  
-}   
+}    
    
