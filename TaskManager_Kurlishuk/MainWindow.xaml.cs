@@ -24,7 +24,7 @@ namespace TaskManager_Kurlishuk
         public static MainWindow init;
         public MainWindow() 
         {
-            InitializeComponent();
+            InitializeComponent(); 
             init = this;
             DataContext = new VM_Pages(); //В качестве контекста указываем модель ViewModelpages
         }
