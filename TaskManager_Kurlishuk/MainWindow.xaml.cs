@@ -22,7 +22,7 @@ namespace TaskManager_Kurlishuk
     public partial class MainWindow : Window
     {
         public static MainWindow init;
-        public MainWindow()
+        public MainWindow() 
         {
             InitializeComponent();
             init = this;
